@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a junior computer engineering student at Abdullah Gül University and a software developer.<br>I can create professional mobile applications with Flutter.<br>Currently, I am working on developing blockchain applications and creating backend solutions with Java.<br>My hobbies are playing the piano, reading and swimming.
+Hello, I am a junior computer engineering student at Abdullah Gül University and a software developer.<br>I can create professional mobile applications with Flutter.<br>Currently, I am working on developing blockchain applications and creating backend solutions with Java.<br>My hobbies are playing piano, reading and swimming.
 
 
 ## 🌐 Socials:
